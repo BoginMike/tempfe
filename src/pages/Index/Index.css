@@ -1,0 +1,19 @@
+
+
+.auto-style6 {
+    font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: 40px;  
+    position: relative;  right:100px;  
+    padding-bottom: 10px; 
+}
+
+.title1 {
+    /* font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: 40px;  
+    position: absolute;  right:100px;  
+    padding-bottom: 10px;  */
+
+    top: 0;
+}
